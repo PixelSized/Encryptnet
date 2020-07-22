@@ -31,7 +31,7 @@ $ pip install cryptography
 ## Built With
 
 * [Python](https://www.python.org/) - The language used
-* [Youtube-dl](https://youtube-dl.org/) - The main API used
+* [Cryptography](https://pypi.org/project/cryptography/) - The main API used
 
 ## Contributing
 
